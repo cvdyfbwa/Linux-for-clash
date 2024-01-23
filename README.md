@@ -1,5 +1,7 @@
 # Linux-for-clash
 
+https://github.com/gao497290234/clash-for-linux
+
 
 > cd Linux for clash
 >
